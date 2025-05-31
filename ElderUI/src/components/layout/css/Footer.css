@@ -1,0 +1,10 @@
+@import url('../../../styles/variables.css');
+.app-footer {
+    background-color: var(--color-main-bg);
+    color: var(--color-text);
+    padding: var(--padding-header-footer);
+    text-align: center;
+    font-size: 1rem;
+    word-break: break-word;
+    margin-top: 0;
+}
